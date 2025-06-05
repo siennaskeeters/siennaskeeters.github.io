@@ -1,4 +1,4 @@
-# Sienna Skeeters Team Handbook & Governing Rules
+# Team Handbook and Governing Rules
 
 ---
 
