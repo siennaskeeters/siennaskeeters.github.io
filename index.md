@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sienna Skeeters Youth Baseball
+title: Home
 ---
 
 # Welcome to the Sienna Skeeters!
