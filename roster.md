@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sienna Skeeters Roster
+title: Roster
 ---
 
 # Roster
