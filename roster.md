@@ -16,6 +16,6 @@ title: Roster
 |Drake Satterwhite||||
 |Tanner Trate||||
 |Greyson Nguyen||||
-|Austin Gilroy||||
+|Karson Patrick||||
 |Tbd||||
 |Tbd||||
