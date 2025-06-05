@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sienna Skeeters Baseball
-email: jdthiele@gmail.com
+email: info@sotxcreations.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Sienna Skeeters Baseball website! This site is dedicated to providing information about our baseball team, including schedules, player profiles, and news updates. We are committed to fostering a love for the game and building a strong community around our team. Join us as we strive for excellence on and off the field!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jdthiele
-github_username:  jdthiele
-linkedin_username: davidthiele #from https://blog.r3bl.me/en/simple-social-media-links-jekyll/
+twitter_username: siennaskeeters
+github_username:  siennaskeeters
+facebook_username: siennaskeeters
 
 # Build settings
 markdown: kramdown
