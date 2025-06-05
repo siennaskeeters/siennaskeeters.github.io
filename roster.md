@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sienna Skeeters Roster
+---
+
 # Roster
 
 |Name|Number|Bat Avg|Slug|
