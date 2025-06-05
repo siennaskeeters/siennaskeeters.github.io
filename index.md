@@ -46,9 +46,8 @@ We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
 ## Contact Us
 
 Interested in joining the team or have questions?  
-**Email:** [siennaskeeters@gmail.com](mailto:siennaskeeters@gmail.com)  
+**Email:** [info@sotxcreations.com](mailto:info@sotxcreations.com)  
 **Coaches:** David Knudsen, Scott Moore, Derek Yelinek, Luis Gotti  
-**Phone:** [Coach Number, optional]
 
 ---
 
