@@ -5,7 +5,7 @@ title: Sienna Skeeters Youth Baseball
 
 # Welcome to the Sienna Skeeters!
 
-![Sienna Skeeters Logo](/assets/skeeters-logo.png)
+![Sienna Skeeters Logo](/assets/Skeeters.png)
 
 ---
 
