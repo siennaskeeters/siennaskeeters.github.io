@@ -1,0 +1,72 @@
+---
+---
+
+@import "minima";
+
+// Brand Colors
+$skeeter-navy: #1e3a8a;
+$skeeter-sky: #0284c7;
+$skeeter-gold: #fbbf24;
+
+body {
+  background-color: #f8fafc;
+  font-family: "Segoe UI", sans-serif;
+}
+
+section {
+  padding: 2em;
+  margin: 1em auto;
+  max-width: 800px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.hero {
+  text-align: center;
+  background: linear-gradient(135deg, $skeeter-navy, $skeeter-sky);
+  color: white;
+  padding: 3em 1em;
+  border-radius: 0 0 24px 24px;
+}
+
+.logo {
+  width: 120px;
+  margin-bottom: 1em;
+}
+
+.tagline {
+  font-size: 1.2em;
+  font-style: bold;
+  opacity: 0.9;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1em;
+}
+
+.contact-form button {
+  background: $skeeter-navy;
+  color: white;
+  padding: 0.75em;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.contact-form button:hover {
+  background: darken($skeeter-navy, 10%);
+}
