@@ -6,21 +6,21 @@ title: Home
 ![Sienna Skeeters Logo](/assets/Skeeters.png){: .logo }
   
 # Welcome to the Sienna Skeeters!
+⚾ Fueling passion, teamwork & character
+{: .hero }
 
-⚾ Fueling passion, teamwork & character{: .hero }
-
-## About the Team{: .info }
+## About the Team {: .info }
   
 We are a 9U youth travel baseball team from the Sienna community in Missouri City, Texas focused on developing great players—and even better kids. Whether it’s game day or practice, we bring hustle, heart, and grit! We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
 
-## What We Value{: .info }
+## What We Value {: .info }
 
 - **Skill Development:** Helping players improve in all aspects of the game
 - **Teamwork:** Teaching players how to work together
 - **Character:** Building respectful, hard-working athletes
 - **Family:** Creating memories and traditions for players and families
 
-## Quick Facts{: .quick-facts }
+## Quick Facts {: .quick-facts }
   
   - **Team Name:** Sienna Skeeters  
   - **Mascot:** The Mosquito 🦟  
