@@ -1,0 +1,63 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f2f2f2;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  padding: 2em;
+  margin: 1em auto;
+  max-width: 800px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.hero {
+  text-align: center;
+  background: linear-gradient(135deg, #1e3a8a, #0284c7);
+  color: white;
+  padding: 3em 1em;
+  border-radius: 0 0 20px 20px;
+}
+
+.logo {
+  width: 120px;
+  margin-bottom: 1em;
+}
+
+.tagline {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.75em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1em;
+}
+
+.contact-form button {
+  background: #1e3a8a;
+  color: white;
+  padding: 0.75em;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.contact-form button:hover {
+  background: #0e2d6c;
+}
