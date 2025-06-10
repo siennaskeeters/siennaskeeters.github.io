@@ -17,5 +17,4 @@ title: Roster
 |Tanner Trate||||
 |Greyson Nguyen||||
 |Karson Patrick||||
-|Tbd||||
-|Tbd||||
+|Wyatt Scott||||
