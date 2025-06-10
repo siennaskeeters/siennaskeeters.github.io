@@ -3,6 +3,40 @@ layout: default
 title: Home
 ---
 
+<section class="hero">
+  
+  <img src="/assets/Skeeters.png" alt="Sienna Skeeters Logo" class="logo" />
+  
+  # Welcome to the Sienna Skeeters!
+  
+  <p class="tagline">⚾ Fueling passion, teamwork & character </p>
+  
+</section>
+
+<section class="info">
+  ## About the Team
+  
+  We are a 9U youth travel baseball team from the Sienna community in Missouri City, Texas focused on developing great players—and even better kids. Whether it’s game day or practice, we bring hustle, heart, and grit! We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
+
+  ## What We Value
+
+- **Skill Development:** Helping players improve in all aspects of the game
+- **Teamwork:** Teaching players how to work together
+- **Character:** Building respectful, hard-working athletes
+- **Family:** Creating memories and traditions for players and families
+
+</section>
+
+<section class="quick-facts">
+  ## Quick Facts
+  
+  - **Team Name:** Sienna Skeeters  
+  - **Mascot:** The Mosquito 🦟  
+  - **Age Group:** Fall 2025 9U  
+  - **Colors:** Navy, Gold, Sky Blue  
+  - **Based In:** Missouri City, TX
+</section>
+
 # Welcome to the Sienna Skeeters!
 
 ![Sienna Skeeters Logo](/assets/Skeeters.png)
@@ -16,30 +50,12 @@ We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
 
 ---
 
-## Quick Facts
-
-- **Team Name:** Sienna Skeeters  
-- **Age Group:** 9U (Fall 2025)  
-- **Based in:** Sienna, Missouri City, TX  
-- **Team Colors:** [Insert Colors or Hex Codes]  
-- **Mascot:** The Mosquito 🦟
-
----
-
 ## What We Value
 
 - **Skill Development:** Helping players improve in all aspects of the game
 - **Teamwork:** Teaching players how to work together
 - **Character:** Building respectful, hard-working athletes
 - **Family:** Creating memories and traditions for players and families
-
----
-
-## Upcoming Events
-
-- **Tryouts:** [Date TBA]
-- **First Practice:** [Date TBA]
-- **Fall 2025 Season:** Kicks off in August!
 
 ---
 
@@ -55,10 +71,3 @@ Interested in joining the team or have questions?
 
 Stay up to date on games, events, and more:  
 [Facebook](#) | [Instagram](#) | [Twitter/X](#)
-
----
-
-### Go Skeeters! 🦟⚾
-
----
-
