@@ -31,6 +31,14 @@ We are a 9U youth travel baseball team from the Sienna community in Missouri Cit
 
 ---
 
+## Team Store
+
+Want to stock up on Skeeters swag? Check out our Team Store.
+
+<https://siennaskeetersmerch.itemorder.com/shop/home/>
+
+---
+
 ## Contact Us
 
 Interested in joining the team or have questions?  
