@@ -9,9 +9,9 @@ title: Home
 ⚾ Fueling passion, teamwork & character
 {: .hero }
 
-## About the Team {: .section-card }
-  
+## About the Team
 We are a 9U youth travel baseball team from the Sienna community in Missouri City, Texas focused on developing great players—and even better kids. Whether it’s game day or practice, we bring hustle, heart, and grit! We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
+{: .section-card }
 
 ## What We Value {: .section-card }
 
