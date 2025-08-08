@@ -13,21 +13,21 @@ title: Home
 We are a 9U youth travel baseball team from the Sienna community in Missouri City, Texas focused on developing great players—and even better kids. Whether it’s game day or practice, we bring hustle, heart, and grit! We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
 {: .section-card }
 
-## What We Value {: .section-card }
-
+## What We Value
 - **Skill Development:** Helping players improve in all aspects of the game
 - **Teamwork:** Teaching players how to work together
 - **Character:** Building respectful, hard-working athletes
 - **Family:** Creating memories and traditions for players and families
+{: .section-card }
 
-## Quick Facts {: .section-card }
+## Quick Facts
   
   - **Team Name:** Sienna Skeeters  
   - **Mascot:** The Mosquito 🦟  
   - **Age Group:** Fall 2025 9U  
   - **Colors:** Navy, Gold, Sky Blue  
   - **Based In:** Missouri City, TX
-{: .quick-facts }
+{: .section-card }
 
 ---
 
