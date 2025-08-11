@@ -5,6 +5,8 @@ title: Schedule
 
 # Schedule of Events
 
+Practices start Tues 9/19/25 and are every Tues / Thurs after that.
+
 | Date           | Event     | Location                          |
 |----------------|-----------|-----------------------------------|
 | 9/7/25  | Pool play double header  | First Colony Little League Fields |
