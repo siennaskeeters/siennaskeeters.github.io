@@ -39,6 +39,45 @@ Want to stock up on Skeeters swag? Check out our Team Store. Store closes Wed 8/
 
 ---
 
+## Sponsorship
+
+Please reach out via email if you're interested in sponsoring!
+
+**GRAND SLAM SPONSOR** - $1,000
+
+- BBQ DINNER (BRISKET, BEANS, POTATO SALAD)
+- LOGO/NAME ON DUGOUT BANNER
+- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
+- TWO TEAM HATS
+- TWO TEAM SHIRT
+
+**NO-HITTER SPONSOR** - $750
+
+- LOGO/NAME ON DUGOUT BANNER
+- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
+- TWO TEAM HATS
+- TWO TEAM SHIRTS
+
+**GOLDEN GLOVE SPONSOR** - $500
+
+- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
+- ONE TEAM HAT
+- ONE TEAM SHIRT
+
+**HOME RUN SPONSOR** - $250
+
+- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
+- ONE TEAM HAT
+- ONE TEAM SHIRT
+
+**DOUBLE PLAY SPONSOR** - $100
+
+- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
+
+See email in [Contact Us](#Contact Us) section below.
+
+---
+
 ## Contact Us
 
 Interested in joining the team or have questions?  
