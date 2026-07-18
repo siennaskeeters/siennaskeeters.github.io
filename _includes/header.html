@@ -1,0 +1,21 @@
+<header class="site-header" role="banner">
+  <div class="wrapper site-header-inner">
+    <a class="site-brand" rel="author" href="{{ "/" | relative_url }}">
+      <img
+        class="site-brand-icon"
+        src="{{ "/assets/skeeters-header.png" | relative_url }}"
+        alt=""
+        aria-hidden="true"
+      >
+      <span class="site-title">{{ site.title | escape }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <a class="page-link{% if page.title == 'Home' %} is-active{% endif %}" href="{{ "/" | relative_url }}"{% if page.title == 'Home' %} aria-current="page"{% endif %}>Home</a>
+      <a class="page-link{% if page.title == 'Fall 2026 Schedule' %} is-active{% endif %}" href="{{ "/schedule.html" | relative_url }}"{% if page.title == 'Fall 2026 Schedule' %} aria-current="page"{% endif %}>Schedule</a>
+      <a class="page-link{% if page.title == 'Fall 2026 Roster' %} is-active{% endif %}" href="{{ "/roster.html" | relative_url }}"{% if page.title == 'Fall 2026 Roster' %} aria-current="page"{% endif %}>Roster</a>
+      <a class="page-link{% if page.title == 'Team Handbook and Governing Rules' %} is-active{% endif %}" href="{{ "/handbook.html" | relative_url }}"{% if page.title == 'Team Handbook and Governing Rules' %} aria-current="page"{% endif %}>Handbook</a>
+      <a class="page-link{% if page.title == 'Blog' %} is-active{% endif %}" href="{{ "/blog/" | relative_url }}"{% if page.title == 'Blog' %} aria-current="page"{% endif %}>Blog</a>
+    </nav>
+  </div>
+</header>

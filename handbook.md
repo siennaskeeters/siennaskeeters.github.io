@@ -1,3 +1,8 @@
+---
+layout: default
+title: Team Handbook and Governing Rules
+---
+
 # Team Handbook and Governing Rules
 
 ---
@@ -12,7 +17,7 @@
 
 ## 2. Player Eligibility
 
-- Players must be eligible for 9U division (cannot turn 10 before May 1, 2026).
+- Players must be eligible for the 10U division (cannot turn 11 before May 1, 2027).
 - Submit birth certificate and medical clearance.
 - Maintain academic eligibility.
 

@@ -3,14 +3,12 @@ layout: default
 title: Home
 ---
 
-![Sienna Skeeters Logo](/assets/Skeeters.png){: .logo }
-  
 # Welcome to the Sienna Skeeters!
 ⚾ Fueling passion, teamwork & character
 {: .hero }
 
 ## About the Team
-We are a 9U youth travel baseball team from the Sienna community in Missouri City, Texas focused on developing great players—and even better kids. Whether it’s game day or practice, we bring hustle, heart, and grit! We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
+We are a 10U youth travel baseball team from the Sienna community in Missouri City, Texas focused on developing great players—and even better kids. Whether it’s game day or practice, we bring hustle, heart, and grit! We prioritize fundamentals, teamwork, sportsmanship, and, above all, having fun!
 {: .section-card }
 
 ## What We Value
@@ -24,7 +22,7 @@ We are a 9U youth travel baseball team from the Sienna community in Missouri Cit
   
   - **Team Name:** Sienna Skeeters  
   - **Mascot:** The Mosquito 🦟  
-  - **Age Group:** Fall 2025 9U  
+  - **Age Group:** Fall 2026 10U
   - **Colors:** Navy, Gold, Sky Blue  
   - **Based In:** Missouri City, TX
 {: .section-card }
@@ -33,9 +31,9 @@ We are a 9U youth travel baseball team from the Sienna community in Missouri Cit
 
 ## Team Store
 
-Want to stock up on Skeeters swag? Check out our Team Store. Store closes Wed 8/20/25.
+Want to stock up on Skeeters swag? Check out our Team Store. Fall 2026 store details and deadlines will be posted here when confirmed.
 
-<https://siennaskeetersmerch.itemorder.com/shop/home/>
+[Visit the Team Store](https://siennaskeetersmerch.itemorder.com/shop/home/)
 
 ---
 
@@ -43,38 +41,51 @@ Want to stock up on Skeeters swag? Check out our Team Store. Store closes Wed 8/
 
 Please reach out via email if you're interested in sponsoring!
 
-**GRAND SLAM SPONSOR** - $1,000
+<div class="sponsorship-grid">
+  <article class="sponsorship-card sponsorship-card-featured">
+    <h3>Grand Slam Sponsor <span>$1,000</span></h3>
+    <ul>
+      <li>BBQ dinner (brisket, beans, potato salad)</li>
+      <li>Logo or name on dugout banner</li>
+      <li>Recognition on social media posts</li>
+      <li>Two team hats and two team shirts</li>
+    </ul>
+  </article>
 
-- BBQ DINNER (BRISKET, BEANS, POTATO SALAD)
-- LOGO/NAME ON DUGOUT BANNER
-- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
-- TWO TEAM HATS
-- TWO TEAM SHIRT
+  <article class="sponsorship-card">
+    <h3>No-Hitter Sponsor <span>$750</span></h3>
+    <ul>
+      <li>Logo or name on dugout banner</li>
+      <li>Recognition on social media posts</li>
+      <li>Two team hats and two team shirts</li>
+    </ul>
+  </article>
 
-**NO-HITTER SPONSOR** - $750
+  <article class="sponsorship-card">
+    <h3>Golden Glove Sponsor <span>$500</span></h3>
+    <ul>
+      <li>Recognition on social media posts</li>
+      <li>One team hat and one team shirt</li>
+    </ul>
+  </article>
 
-- LOGO/NAME ON DUGOUT BANNER
-- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
-- TWO TEAM HATS
-- TWO TEAM SHIRTS
+  <article class="sponsorship-card">
+    <h3>Home Run Sponsor <span>$250</span></h3>
+    <ul>
+      <li>Recognition on social media posts</li>
+      <li>One team hat and one team shirt</li>
+    </ul>
+  </article>
 
-**GOLDEN GLOVE SPONSOR** - $500
+  <article class="sponsorship-card">
+    <h3>Double Play Sponsor <span>$100</span></h3>
+    <ul>
+      <li>Recognition on social media posts</li>
+    </ul>
+  </article>
+</div>
 
-- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
-- ONE TEAM HAT
-- ONE TEAM SHIRT
-
-**HOME RUN SPONSOR** - $250
-
-- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
-- ONE TEAM HAT
-- ONE TEAM SHIRT
-
-**DOUBLE PLAY SPONSOR** - $100
-
-- COMPANY/NAME RECOGNITION ON SOCIAL MEDIA POSTS
-
-See email in [Contact Us](#Contact Us) section below.
+See the [Contact Us](#contact-us) section below to learn more.
 
 ---
 
@@ -89,4 +100,4 @@ Interested in joining the team or have questions?
 ## Follow Us
 
 Stay up to date on games, events, and more:  
-[Facebook](#) | [Instagram](#) | [Twitter/X](#)
+[Facebook](https://www.facebook.com/siennaskeeters) | [Twitter/X](https://twitter.com/siennaskeeters)

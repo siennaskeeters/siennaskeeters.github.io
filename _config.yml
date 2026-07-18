@@ -18,7 +18,7 @@ email: info@sotxcreations.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the Sienna Skeeters Baseball website! This site is dedicated to providing information about our baseball team, including schedules, player profiles, and news updates. We are committed to fostering a love for the game and building a strong community around our team. Join us as we strive for excellence on and off the field!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.siennaskeeters.com" # the base hostname & protocol for your site
 twitter_username: siennaskeeters
 github_username:  siennaskeeters
 facebook_username: siennaskeeters
