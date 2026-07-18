@@ -7,26 +7,22 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+        <ul class="contact-list utility-links">
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a href="mailto:{{ site.email }}"><img class="utility-icon-image" data-icon="email" src="{{ "/assets/icons/utility-email.svg" | relative_url }}" alt="" aria-hidden="true"><span>Email the team</span></a></li>
             {% endif %}
-            <li><a href="mailto:david@thiele.pro">Contact Webmaster</a></li>
+            <li><a href="https://siennaskeetersmerch.itemorder.com/shop/home/"><img class="utility-icon-image" data-icon="store" src="{{ "/assets/icons/utility-store.svg" | relative_url }}" alt="" aria-hidden="true"><span>Team Store</span></a></li>
+            <li><a href="mailto:david@thiele.pro"><span class="utility-icon ui-icon" data-icon="webmaster" aria-hidden="true"></span><span>Contact Webmaster</span></a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
+        <ul class="social-media-list utility-links">
+          {% if site.facebook_username %}
+          <li><a href="https://www.facebook.com/{{ site.facebook_username }}"><img class="utility-icon-image" data-icon="facebook" src="{{ "/assets/icons/utility-facebook.svg" | relative_url }}" alt="" aria-hidden="true"><span>Facebook</span></a></li>
           {% endif %}
-
           {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+          <li><a href="https://twitter.com/{{ site.twitter_username }}"><img class="utility-icon-image" data-icon="social-x" src="{{ "/assets/icons/utility-x.svg" | relative_url }}" alt="" aria-hidden="true"><span>Twitter/X</span></a></li>
           {% endif %}
         </ul>
       </div>
