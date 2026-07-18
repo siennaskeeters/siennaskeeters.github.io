@@ -82,7 +82,7 @@ See email in [Contact Us](#Contact Us) section below.
 
 Interested in joining the team or have questions?  
 **Email:** [info@sotxcreations.com](mailto:info@sotxcreations.com)  
-**Coaches:** David Knudsen, Scott Moore, Derek Yelinek, Luis Gotti  
+**Coaches:** David Knudsen, Scott Moore, Derek Yelinek
 
 ---
 
