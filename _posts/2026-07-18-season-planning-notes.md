@@ -3,6 +3,7 @@ layout: default
 title: Fall 2026 Team and Program Planning Notes
 date: 2026-07-18
 status: draft
+published: false
 excerpt: A working plan for player growth, team culture, measurable development, and the Fall 2026 Skeeters season.
 ---
 
